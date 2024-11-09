@@ -1,0 +1,2 @@
+**Image Segmentation**
+This process involves partitioning an image into multiple segments, often using thresholding or edge detection techniques. The code for this part is not detailed here but typically involves techniques like the Canny edge detector or thresholding methods.
